@@ -1,1 +1,2 @@
-# New_NLP_CoT_SC
+# Nhập môn xử lí ngôn ngữ tự nhiên
+## Chain of though - Self consistency
